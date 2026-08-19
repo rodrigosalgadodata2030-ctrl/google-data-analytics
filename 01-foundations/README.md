@@ -65,6 +65,46 @@ Remedial Massage presenta la mayor satisfacción promedio (4,78), seguido de Spo
 
 En estos datos, Remedial Massage y Sports presentan mayores niveles de satisfacción promedio que Musculoskeletal y Neurological.
 
+## Proyecto 2 — Análisis de tratamientos
+
+### Objetivo
+
+Analizar la relación entre el tipo de tratamiento, el número de sesiones y la satisfacción de los pacientes.
+
+### Preguntas
+
+1. ¿Qué tipo de tratamiento presenta mayor satisfacción?
+2. ¿Existe una relación entre el número promedio de sesiones y la satisfacción?
+
+### Resultados
+
+- Remedial Massage: 4,78 de satisfacción promedio.
+- Sports: 4,50.
+- Musculoskeletal: 3,67.
+- Neurological: 2,58.
+
+### Análisis de sesiones
+
+- Sports: 5,86 sesiones promedio.
+- Musculoskeletal: 7,73.
+- Neurological: 12,50.
+- Remedial Massage: 5,89.
+
+### Visualizaciones
+
+- Gráfico de barras para comparar la satisfacción entre tratamientos.
+- Gráfico de dispersión para analizar la relación entre sesiones promedio y satisfacción promedio.
+
+### Conclusión
+
+Remedial Massage presentó la mayor satisfacción promedio, mientras que Neurological presentó la menor. Los datos también muestran una tendencia negativa entre el número promedio de sesiones y la satisfacción promedio.
+
+### Herramientas
+
+- Microsoft Excel
+- Fórmula AVERAGEIF
+- Análisis de datos
+- Visualización de datos
 ### Herramientas utilizadas
 
 - Microsoft Excel

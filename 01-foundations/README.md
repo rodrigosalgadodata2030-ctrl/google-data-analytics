@@ -92,7 +92,6 @@ Analizar la relación entre el tipo de tratamiento, el número de sesiones y la 
 
 ### Visualizaciones
 
-- Gráfico de barras para comparar la satisfacción entre tratamientos.
 - Gráfico de dispersión para analizar la relación entre sesiones promedio y satisfacción promedio.
 
 ### Conclusión

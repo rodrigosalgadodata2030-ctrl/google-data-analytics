@@ -39,3 +39,35 @@ Reducir los tiempos de espera podría contribuir a mejorar la satisfacción de l
 ## Aprendizaje
 
 Este proyecto permitió aplicar conceptos básicos de análisis de datos, organización de información, identificación de relaciones entre variables y comunicación de resultados.
+
+## Proyecto 2 — Satisfacción según tipo de tratamiento
+
+### Pregunta
+
+¿Qué tipo de tratamiento presenta el mayor nivel promedio de satisfacción?
+
+### Análisis
+
+Se calculó la satisfacción promedio de los pacientes según el tipo de tratamiento.
+
+### Resultados
+
+- Sports: 4,50
+- Musculoskeletal: 3,67
+- Neurological: 2,58
+- Remedial Massage: 4,78
+
+### Hallazgo
+
+Remedial Massage presenta la mayor satisfacción promedio (4,78), seguido de Sports (4,50). Neurological presenta el promedio más bajo (2,58).
+
+### Conclusión
+
+En estos datos, Remedial Massage y Sports presentan mayores niveles de satisfacción promedio que Musculoskeletal y Neurological.
+
+### Herramientas utilizadas
+
+- Microsoft Excel
+- PROMEDIO.SI
+- Análisis de datos
+- Visualización de datos

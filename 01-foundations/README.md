@@ -40,31 +40,6 @@ Reducir los tiempos de espera podría contribuir a mejorar la satisfacción de l
 
 Este proyecto permitió aplicar conceptos básicos de análisis de datos, organización de información, identificación de relaciones entre variables y comunicación de resultados.
 
-## Proyecto 2 — Satisfacción según tipo de tratamiento
-
-### Pregunta
-
-¿Qué tipo de tratamiento presenta el mayor nivel promedio de satisfacción?
-
-### Análisis
-
-Se calculó la satisfacción promedio de los pacientes según el tipo de tratamiento.
-
-### Resultados
-
-- Sports: 4,50
-- Musculoskeletal: 3,67
-- Neurological: 2,58
-- Remedial Massage: 4,78
-
-### Hallazgo
-
-Remedial Massage presenta la mayor satisfacción promedio (4,78), seguido de Sports (4,50). Neurological presenta el promedio más bajo (2,58).
-
-### Conclusión
-
-En estos datos, Remedial Massage y Sports presentan mayores niveles de satisfacción promedio que Musculoskeletal y Neurological.
-
 ## Proyecto 2 — Análisis de tratamientos
 
 ### Objetivo
@@ -90,23 +65,21 @@ Analizar la relación entre el tipo de tratamiento, el número de sesiones y la 
 - Neurological: 12,50.
 - Remedial Massage: 5,89.
 
-### Visualizaciones
+### Visualización
 
-- Gráfico de dispersión para analizar la relación entre sesiones promedio y satisfacción promedio.
+Gráfico de dispersión para analizar la relación entre sesiones promedio y satisfacción promedio.
 
-### Conclusión
+### Hallazgo
 
 Remedial Massage presentó la mayor satisfacción promedio, mientras que Neurological presentó la menor. Los datos también muestran una tendencia negativa entre el número promedio de sesiones y la satisfacción promedio.
 
-### Herramientas
+### Conclusión
 
-- Microsoft Excel
-- Fórmula AVERAGEIF
-- Análisis de datos
-- Visualización de datos
+En estos datos, los tratamientos con un mayor número promedio de sesiones presentan una tendencia hacia una menor satisfacción promedio.
+
 ### Herramientas utilizadas
 
 - Microsoft Excel
-- PROMEDIO.SI
+- Fórmula AVERAGEIF
 - Análisis de datos
 - Visualización de datos
